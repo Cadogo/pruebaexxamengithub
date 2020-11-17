@@ -12,4 +12,4 @@ jobs:
           command: echo Carlos
       - run:
           name: Apellido
-          command: Dolz
+          command: echo Dolz
